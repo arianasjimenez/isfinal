@@ -1,9 +1,16 @@
 h2{
-    font-family: 'Comic Sans', 'Courier New', Courier, monospace;
+    font-family: Arial, Helvetica, sans-serif
 }
 .darkcolor{
-    background-color: rgb(255, 206, 213) !important;
+    background-color: rgb(219, 155, 165) !important;
 }
 h1{
-    font-family: 'comic Sans';
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
+a{
+    color: rgb(219, 155, 165) 
+}
+.text-primary{
+    color: rgb(219, 155, 165) !important
+}
+   
